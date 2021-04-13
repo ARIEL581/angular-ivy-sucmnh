@@ -11,7 +11,7 @@ export class AppComponent  {
   onPlus(): void {
     this.counter +=5;
   }
-  onsubtract (): void{
+  onSubtract (): void{
     this.counter -=5;
   }
 }
